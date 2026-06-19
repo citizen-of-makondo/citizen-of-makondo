@@ -24,7 +24,8 @@
 </div>
                                                                                                 
  ### :man_technologist: About Me :
- I am a junior+ / middle android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+ I am a middle android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+ 
                                                                                                            
 
 - :seedling: Exploring Technical Content Writing.

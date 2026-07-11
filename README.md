@@ -100,10 +100,6 @@ free_time:  reading about tech, chasing yellow butterflies 🦋
      so the profile never depends on live third-party services at load time. -->
 <img width="75%" src="./assets/metrics.svg" alt="GitHub metrics"/>
 
-<br/>
-
-<img width="75%" src="./assets/achievements.svg" alt="Achievements"/>
-
 </div>
 
 <!-- ═══════════════════════════════  SNAKE  ═══════════════════════════════ -->

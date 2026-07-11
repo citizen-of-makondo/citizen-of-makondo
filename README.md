@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=5CCFE6&center=true&vCenter=true&width=560&lines=Many+years+later%2C+facing+the+compiler...;Android+developer+%C2%B7+Kotlin+%C2%B7+Jetpack+Compose;A+citizen+of+Macondo%2C+writing+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=5CCFE6&center=true&vCenter=true&width=600&lines=Many+years+later%2C+facing+the+compiler...;Android+developer+%C2%B7+Kotlin+%C2%B7+Jetpack+Compose;Now+wandering+into+KMP+and+the+server+side;A+citizen+of+Macondo%2C+writing+code+into+being" alt="typing" />
 
 <br/>
 
@@ -34,10 +34,10 @@ citizen_of_makondo:~$ cat about.txt
 
 ```yaml
 name:       Alexandr Rondirev-Ilinskiy
-role:       Android Developer  # middle, and growing
-location:   Russia 🇷🇺
-hometown:   Macondo  # the one that exists only when someone reads about it
+role:       Android Developer  # strong middle, and growing
+location:   Macondo  # the town that exists only when someone reads about it
 building:   apps in Kotlin & Jetpack Compose
+exploring:  Kotlin Multiplatform, server-side (Ktor / Spring), PostgreSQL
 learning:   Compose internals, technical writing
 free_time:  reading about tech, chasing yellow butterflies 🦋
 ```
@@ -51,14 +51,41 @@ free_time:  reading about tech, chasing yellow butterflies 🦋
 
 <div align="center">
 
+**Core · Android**
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+
+**Async · DI**
+
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dagger](https://img.shields.io/badge/Dagger-FF6F00?style=for-the-badge&logo=dagger&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-2196F3?style=for-the-badge&logo=android&logoColor=white)
+
+**Networking · Data**
+
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
+![Room](https://img.shields.io/badge/Room%20/%20SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Material UI](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+
+**Design · Tools**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+<br/>
+
+**🌱 Wandering into new territory**
+
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor%20server-087CFA?style=flat-square&logo=ktor&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 

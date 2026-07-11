@@ -101,7 +101,7 @@ free_time:  reading about tech, chasing yellow butterflies 🦋
 
 <br/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=citizen-of-makondo&theme=material-palenight&hide_border=true&background=0f2027&ring=5CCFE6&fire=E4405F&currStreakLabel=5CCFE6" alt="streak"/>
+<img height="165" src="https://streak-stats.demolab.com?user=citizen-of-makondo&theme=material-palenight&hide_border=true&background=0f2027&ring=5CCFE6&fire=E4405F&currStreakLabel=5CCFE6" alt="streak"/>
 
 <br/>
 

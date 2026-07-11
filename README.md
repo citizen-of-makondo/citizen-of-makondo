@@ -114,7 +114,9 @@ free_time:  reading about tech, chasing yellow butterflies
   <img alt="contribution snake" src="https://raw.githubusercontent.com/citizen-of-makondo/citizen-of-makondo/output/github-snake.svg" />
 </picture>
 
-<sub><img src="./assets/butterfly.svg" width="20" alt="yellow butterfly"/> <i>A yellow butterfly appears whenever this profile is opened. Nobody knows why.</i> <img src="./assets/butterfly.svg" width="20" alt="yellow butterfly"/></sub>
+<img width="100%" src="./assets/butterfly-flight.svg" alt="yellow butterflies crossing Macondo"/>
+
+<sub><img src="./assets/butterfly.svg" width="18" alt="yellow butterfly"/> <i>Yellow butterflies appear whenever this profile is opened. Nobody knows why.</i> <img src="./assets/butterfly.svg" width="18" alt="yellow butterfly"/></sub>
 
 </div>
 

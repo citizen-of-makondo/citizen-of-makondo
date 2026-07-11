@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%" height="120" preserveAspectRatio="xMidYMid meet" role="img" aria-label="yellow butterflies crossing the section">
+  <defs>
+    <radialGradient id="wingGrad" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#FFF3B0"/>
+      <stop offset="55%" stop-color="#FFD60A"/>
+      <stop offset="100%" stop-color="#F0A500"/>
+    </radialGradient>
+
+    <!-- one butterfly, centered at (0,0), wings flapping -->
+    <g id="bfly">
+      <g stroke="#6b4a00" stroke-width="1" stroke-linejoin="round">
+        <g>
+          <path fill="url(#wingGrad)" d="M0 -3 C -10 -20, -26 -18, -24 -6 C -23 0, -10 -1, 0 -1 Z"/>
+          <path fill="url(#wingGrad)" d="M0 1 C -10 0, -24 2, -22 12 C -20 20, -8 16, 0 4 Z"/>
+          <animateTransform attributeName="transform" type="scale"
+            values="1 1;0.22 1;1 1" keyTimes="0;0.5;1" dur="0.32s" repeatCount="indefinite"/>
+        </g>
+        <g>
+          <path fill="url(#wingGrad)" d="M0 -3 C 10 -20, 26 -18, 24 -6 C 23 0, 10 -1, 0 -1 Z"/>
+          <path fill="url(#wingGrad)" d="M0 1 C 10 0, 24 2, 22 12 C 20 20, 8 16, 0 4 Z"/>
+          <animateTransform attributeName="transform" type="scale"
+            values="1 1;0.22 1;1 1" keyTimes="0;0.5;1" dur="0.32s" repeatCount="indefinite"/>
+        </g>
+      </g>
+      <ellipse cx="-13" cy="-9" rx="1.6" ry="1.6" fill="#F0A500" opacity="0.7"/>
+      <ellipse cx="13" cy="-9" rx="1.6" ry="1.6" fill="#F0A500" opacity="0.7"/>
+      <rect x="-1" y="-11" width="2" height="22" rx="1" fill="#3a2a00"/>
+      <g stroke="#3a2a00" stroke-width="1" fill="none" stroke-linecap="round">
+        <path d="M0 -10 C -3 -16, -6 -17, -8 -18"/>
+        <path d="M0 -10 C 3 -16, 6 -17, 8 -18"/>
+      </g>
+    </g>
+
+    <!-- flight routes (left off-screen -> right off-screen) -->
+    <path id="route1" d="M-70 60 C 150 28, 330 88, 480 56 S 800 82, 980 36" fill="none"/>
+    <path id="route2" d="M-90 88 C 170 62, 350 100, 510 78 S 820 96, 1010 58" fill="none"/>
+    <path id="route3" d="M-60 40 C 190 16, 360 58, 520 34 S 760 54, 980 20" fill="none"/>
+  </defs>
+
+  <!-- lead butterfly -->
+  <g>
+    <g transform="scale(0.9)"><use href="#bfly"/></g>
+    <animateMotion dur="13s" repeatCount="indefinite" begin="0s"><mpath href="#route1"/></animateMotion>
+  </g>
+
+  <!-- trailing, smaller, slower -->
+  <g opacity="0.85">
+    <g transform="scale(0.65)"><use href="#bfly"/></g>
+    <animateMotion dur="17s" repeatCount="indefinite" begin="-6s"><mpath href="#route2"/></animateMotion>
+  </g>
+
+  <!-- high, small, quick -->
+  <g opacity="0.7">
+    <g transform="scale(0.55)"><use href="#bfly"/></g>
+    <animateMotion dur="10s" repeatCount="indefinite" begin="-3s"><mpath href="#route3"/></animateMotion>
+  </g>
+</svg>

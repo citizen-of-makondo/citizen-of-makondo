@@ -96,16 +96,13 @@ free_time:  reading about tech, chasing yellow butterflies 🦋
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=citizen-of-makondo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0f2027&title_color=5CCFE6&icon_color=5CCFE6" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citizen-of-makondo&layout=compact&theme=material-palenight&hide_border=true&bg_color=0f2027&title_color=5CCFE6" alt="top langs"/>
+<!-- Rendered daily by .github/workflows/metrics.yml and committed as static SVGs,
+     so the profile never depends on live third-party services at load time. -->
+<img width="75%" src="./assets/metrics.svg" alt="GitHub metrics"/>
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=citizen-of-makondo&theme=material-palenight&hide_border=true&background=0f2027&ring=5CCFE6&fire=E4405F&currStreakLabel=5CCFE6" alt="streak"/>
-
-<br/>
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=citizen-of-makondo&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
+<img width="75%" src="./assets/achievements.svg" alt="Achievements"/>
 
 </div>
 

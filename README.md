@@ -1,12 +1,12 @@
 <!-- ═══════════════════════════════  MACONDO  ═══════════════════════════════ -->
 
 <a href="https://github.com/citizen-of-makondo">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Macondo&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=where%20the%20code%20has%20not%20yet%20been%20named&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Makondo&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=where%20the%20code%20has%20not%20yet%20been%20named&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
 </a>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=5CCFE6&center=true&vCenter=true&width=600&lines=Many+years+later%2C+facing+the+compiler...;Android+developer+%C2%B7+Kotlin+%C2%B7+Jetpack+Compose;Now+wandering+into+KMP+and+the+server+side;A+citizen+of+Macondo%2C+writing+code+into+being" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=5CCFE6&center=true&vCenter=true&width=600&lines=Many+years+later%2C+facing+the+compiler...;Android+developer+%C2%B7+Kotlin+%C2%B7+Jetpack+Compose;Now+wandering+into+KMP+and+the+server+side;A+citizen+of+Makondo%2C+writing+code+into+being" alt="typing" />
 
 <br/>
 
@@ -36,7 +36,7 @@ citizen_of_makondo:~$ cat about.txt
 name:       Alexandr Rondirev-Ilinskiy
 role:       Android Developer  # strong middle, and growing
 experience: since Nov 2021
-location:   Macondo  # the town that exists only when someone reads about it
+location:   Makondo  # the town that exists only when someone reads about it
 building:   apps in Kotlin & Jetpack Compose
 exploring:  Kotlin Multiplatform, server-side (Ktor / Spring), PostgreSQL
 learning:   Compose internals, technical writing

@@ -40,7 +40,7 @@ location:   Makondo  # the town that exists only when someone reads about it
 building:   apps in Kotlin & Jetpack Compose
 exploring:  Kotlin Multiplatform, server-side (Ktor / Spring), PostgreSQL
 learning:   Compose internals, technical writing
-free_time:  reading about tech, chasing yellow butterflies 🦋
+free_time:  reading about tech, chasing yellow butterflies
 ```
 
 > *"It is enough that a man knows how to make things appear on a screen,  

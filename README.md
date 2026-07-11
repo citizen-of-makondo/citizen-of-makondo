@@ -35,6 +35,7 @@ citizen_of_makondo:~$ cat about.txt
 ```yaml
 name:       Alexandr Rondirev-Ilinskiy
 role:       Android Developer  # strong middle, and growing
+experience: since Nov 2021  # ~4.5 years and counting
 location:   Macondo  # the town that exists only when someone reads about it
 building:   apps in Kotlin & Jetpack Compose
 exploring:  Kotlin Multiplatform, server-side (Ktor / Spring), PostgreSQL

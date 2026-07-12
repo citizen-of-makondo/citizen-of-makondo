@@ -120,4 +120,11 @@ free_time:  reading about tech, chasing yellow butterflies
 
 </div>
 
+<div align="center">
+
+> *“The first of the line is tied to a tree, and the last is being eaten by the ants.”*  
+> <sub>— deciphered from the parchments of Melquíades 🐜</sub>
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer"/>

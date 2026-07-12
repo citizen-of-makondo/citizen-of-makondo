@@ -33,7 +33,7 @@ citizen_of_makondo:~$ cat about.txt
 ```
 
 ```yaml
-name:       Alexandr Rondirev-Ilinskiy
+name:       Alexandr Ilinskii
 role:       Android Developer  # strong middle, and growing
 experience: since Nov 2021
 location:   Makondo  # the town that exists only when someone reads about it
